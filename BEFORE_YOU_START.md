@@ -1,4 +1,4 @@
-# How to create your own random version of Codenames
+# How it works
 
 Before you start, choose numbers from 1 to 6. Your numbers will be shown as 001, 002, ... as codes in the game. You can play with less people, if you want to do this, just ignore extra players. But if you want to play with extra people, you can edit the code, easily, as well.
 
